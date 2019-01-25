@@ -20,6 +20,7 @@ namespace ClightModul2
             string greeting = "Добро пожаловать в декоратор имени!\n";
             string nameTask = " Введите Ваше имя:";
             string charTask = " Введите знак для декорации:";
+            string bye = " Введите знак для декорации:";
             string userName = "";
             char niceChar = ' ';
             string cover = "";
@@ -35,6 +36,7 @@ namespace ClightModul2
                 cover += niceChar;
             }
             Console.WriteLine(cover + "\n"+ niceChar + userName + niceChar + "\n" + cover);
+            Console.WriteLine(bye);
         }
         
     }

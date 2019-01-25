@@ -48,6 +48,7 @@
     <None Include="Task3.cs" />
     <None Include="Task2.cs" />
     <None Include="Task1.cs" />
+    <Compile Include="Task6.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
